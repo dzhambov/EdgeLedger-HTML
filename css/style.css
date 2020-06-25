@@ -67,3 +67,11 @@ img {
 .navbar .logo {
   font-weight: 400;
 }
+
+/* Header */
+.hero {
+  background: url('../img/home/showcase.jpg') no-repeat  center center/cover;
+  height: 100vh;
+  position: relative;
+  color: #fff;
+}
