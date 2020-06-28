@@ -58,6 +58,9 @@
 }
 
 /* Flex-columns */
+.flex-columns.flex-reverse .row {
+  flex-direction: row-reverse;
+}
 .flex-columns .row {
   display: flex;
   flex-direction: flex;
@@ -134,4 +137,4 @@
   flex: 25%;
   max-width: 25%;
   padding: 0 4px;
-}
+} 
