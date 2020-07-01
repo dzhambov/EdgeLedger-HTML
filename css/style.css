@@ -110,6 +110,10 @@ img {
   z-index: 10;
 }
 
+.hero.blog {
+  background: url('../img/home/blog.jpg') no-repeat center center/cover;
+}
+
 /* Icons */
 .icons {
   padding: 30px;
